@@ -2012,7 +2012,7 @@ var IconModule = /*#__PURE__*/Object.freeze({
     BenderIcon: Icon$10,
     BenderFillIcon: Icon$11,
     AlcoholIcon: Icon$12,
-    BurnlIcon: Icon$13
+    BurnIcon: Icon$13
 });
 
 var MenuButton = styled(Button)(templateObject_1$x || (templateObject_1$x = __makeTemplateObject(["\n  color: ", ";\n  padding: 0 8px;\n  border-radius: 8px;\n"], ["\n  color: ", ";\n  padding: 0 8px;\n  border-radius: 8px;\n"])), function (_a) {
