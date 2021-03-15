@@ -23,3 +23,4 @@ export { default as RoadmapIcon } from "./Roadmap";
 export { default as BenderIcon } from "./Bender";
 export { default as BenderFillIcon } from "./BenderFill";
 export { default as AlcoholIcon } from './Alcohol';
+export { default as BurnlIcon } from './Burn';
